@@ -1,0 +1,5 @@
+Growth Ecommerce Store Global Overview dashboard — React/Vite.
+Frontend source implemented using the provided 24-record JSON dataset and existing loader.
+Functional data processing checks passed. Browser screenshot, production build, GitHub URL and live HTTPS deployment must be completed and verified before submission.
+GitHub URL: [fill in]
+Live URL: [fill in]
